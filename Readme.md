@@ -1,5 +1,5 @@
-This is a collection of tools for my PhD research.
+This is a collection of tools for computer vision and robotics research.
 
-## Rerun
-Rerun is a tool to log and analyze the execution of a program. It is written in Rust and is available on [GitHub](https://github.com/rerun-io/rerun).
-Rerun is used to log the execution of a program and visualize it in a 3D space.
+## Chronicle
+Chronicle is a lightweight wrapper around Rerun for structured logging of events, metrics, and data streams.
+It is written in Python and is available on [GitHub](https://github.com/ibrandiay/phd_tools/tree/main/chronicle)
