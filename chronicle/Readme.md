@@ -136,12 +136,12 @@ For detailed documentation and examples, see the [docs](./docs) directory.
 
 ## Requirements
 
-- Python >= 3.8
+- Python >= 3.12
 - rerun-sdk >= 0.15.0
 
 ## License
 
-[Your License Here]
+MIT License
 
 ## Contributing
 
