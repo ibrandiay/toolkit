@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chronicle"
+version = "0.1.0"
+description = "A chronicle tool"
+readme = "Readme.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.0.0,<3.0.0",
+    "rerun-sdk==0.28.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
