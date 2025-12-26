@@ -141,7 +141,6 @@ For detailed documentation and examples, see the [docs](./docs) directory.
 
 ## License
 
-MIT License
 
 ## Contributing
 
